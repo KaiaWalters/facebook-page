@@ -1,7 +1,8 @@
 # Facebook Home Page
 [Link to the Project: FaceBook Home Page](https://facebookhomepageproject.netlify.com)
 ___
-HUUUH 
+
+<img width="1117" alt="Screen Shot 2019-06-27 at 1 46 24 PM" src="https://user-images.githubusercontent.com/49502261/60322979-d7e33000-994e-11e9-819e-704920cd3091.png">
 
 # Description
 Facebook Home Page is a static website that I created to strengthen my HTML and CSS skills. 
