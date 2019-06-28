@@ -1,0 +1,206 @@
+
+*{
+  box-sizing: border-box;
+  font-family: 'Ariel';
+}
+body{
+  height:600px;
+  width: 100%;
+  float:left;
+}
+
+header{
+ background-color: #3b5897;
+ width: 100%;
+ height: 80px;
+ border: 2px solid black;
+}
+body>section:last-child{
+  height: 516px;
+  width: 100%;
+  float: left;
+}
+header section:first-child{
+ width: 40%;
+ height: 80px;
+ float: left;
+}
+.firstP{
+  font-size: 25px;
+  margin: 60px 80px 0px 105px;
+  line-height: 30px;
+  font-weight: bold;
+}
+body>section:last-child>section ul{
+  margin: 20px 20px 0px 105px;
+  font-size: 11px;
+  list-style: none;
+  padding: 0;
+  line-height: 70px;
+}
+body>section:last-child>section ul li{
+  margin: 0px 0px 0px 0px;
+  font-size: 20px;
+}
+section section:last-child>form+span{
+  color: blue;
+  float: left;
+}
+/* Got Help From Sal, Revamped*/
+header section img {
+    display: block;
+    width: 38%;
+    margin: 6px 0 0 24%;
+    height: 70px;
+    padding-top: 0px;
+}
+.bform{
+  border: 1px solid black;
+  float:left;
+  width: 0;
+}
+.logInIn {
+   width: 40%;
+   height: 80px;
+   float: right;
+   margin-left: 111px;
+}
+.fbLogIn input{
+ border: 1px solid black;
+ height: 23px;
+ width: 73%;
+}
+.fbLogIn {
+ width: 37%;
+ float: left;
+}
+.fbLogIn span{
+ display: block;
+}
+.fbLogIn span a{
+ text-decoration: none;
+ color: white;
+}
+.fbLogIn label {
+   color: white;
+}
+.logInIn form{
+  margin: 16px 0px 0px 0px;
+}
+.logInIn form button{
+ font-size: 15px;
+ margin-top: 20px;
+ background-color: #3b5897;
+ color: white;
+ border-radius: 11%;
+ margin-left: -43px;
+}
+/* End Got Help From Sal */
+
+/*Right section beneath nav */
+
+body>section:last-child>section{
+  width: 50%;
+  height: 516px;
+  background-color: #edf0f5;
+  float: left;
+}
+/*Sign up Section */
+.Sign{
+  float: left;
+  height: 90px;
+  width: 50%;
+}
+.Sign span{
+  float:left;
+  margin:15px 0px 0px 0px;
+  width: 50%;
+  font-size: 30px;
+  font-weight: bold;
+}
+#Sign{
+  float:left;
+  margin:0px 0px 0px 0px;
+  width: 70%;
+  line-height: normal;
+  font-size: 15px;
+  font-weight: normal;
+}
+section section form{
+  height: 34px;
+  width:75%;
+  margin: 0px 0 0 0 0;
+  float: left;
+}
+section section form input{
+  height: 30px;
+  width:45%;
+  margin: 0px 10px 0 0 ;
+  float: left;
+}
+/*Form email and password*/
+section section form ~form{
+  height: 100px;
+  width:75%;
+  margin: 0px 0 0 0 0;
+  float: left;
+}
+section section form ~ form input{
+  height: 30px;
+  width:75%;
+  margin: 15px 10px 0 0 ;
+  float: left;
+}
+/*Form Birthday and Gender */
+section section form~form~form{
+  height: 60px;
+  width:70%;
+  margin: 0px 0 0 0 0;
+  float:left;
+}
+section section form ~ form ~form input{
+  height: 30px;
+  width:40%;
+  margin: 15px 10px 0 0 ;
+  float: left;
+}
+.genlab{
+  float: left;
+  width: 5px;
+  margin: 6px 0 0 0;
+}
+/*Below Radio*/
+section section p{
+  font-size: 10px;
+  float: left;
+  margin: 10px 150px 0px 0px;
+}
+section section button{
+  font-size: 20px;
+  float: left;
+  margin: 15px 0 0 0;
+  width: 25%;
+  border: 1px solid #2f4f4f;
+  border-radius: 4px;
+  background-image: linear-gradient(#66ab53,#5a9046);
+  color: white;
+}
+#bform{
+  border: 1px solid black;
+  float:left;
+  width: 30%;
+  height: 41px;
+  margin: 0px 0px 0px 1px;
+
+}
+#aform{
+  float:left;
+  width: 30%;
+  height: 41px;
+  margin: 0px 0px 0px 1px;
+}
+.afinput{
+  margin: 0 0 0 0;
+  float:left;
+  width: 14%;
+}
